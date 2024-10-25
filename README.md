@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub!
 
-<!--
-**vpscontabo/vpscontabo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 About Me
+Hey! I’m **Luna** (aka `Midone`). I’m a backend developer focused on Python, with a passion for network infrastructure. I also work on advanced Discord bots using **Nextcord** and **discord.py-self**. I love exploring the potential of selfbots and specialize in bot optimization and customization, aiming for automation and simplicity in everything I create.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Skills
+
+- **Languages**: Python (main), JavaScript (currently learning)
+- **Discord Development**:
+  - **Nextcord & discord.py-self**
+  - Full automation capabilities for Discord (autobumps, checkers, etc.)
+  - Persistent Mobile Rich Presence
+  - Multi-token support and rate limit management
+- **Backend & Frameworks**:
+  - Flask application management
+- **DevOps & Automation**:
+  - Streamlined automation scripts
+  - Discord "anti-term" scripts to prevent account terminations
+- **Mindset**: Passionate about automation and simplicity, seeking these qualities in everything I do.
+
